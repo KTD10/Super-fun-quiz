@@ -1,6 +1,7 @@
 # Super-fun-quiz
 
-##Purpose
+## Purpose
+
 The purpose of this project was to apply the JavaScript tools learned during week 3 and create a password generator using functions, math properties, strings, and arrays.
 
 To Deploy
