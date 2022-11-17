@@ -2,8 +2,7 @@
 
 ## Purpose
 
-The purpose of this project was to apply the JavaScript tools learned during week 3 and create a password generator using functions, math properties, strings, and arrays.
-
+The purpose of this project is to demonstrate the javaScript abilities learned during class, to include: Functional buttons, a timer, and local storage. 
 To Deploy
 Click here to go to the deployed website.
 Click here to go my GitHub repo
