@@ -3,7 +3,10 @@
 ## Purpose
 
 The purpose of this project is to demonstrate the javaScript abilities learned during class, to include: Functional buttons, a timer, and local storage. 
-To Deploy
+
+To Deploy:
+
+
 Click [here](https://ktd10.github.io/Super-fun-quiz/) to go to my live page.
 
 
