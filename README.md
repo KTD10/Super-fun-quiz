@@ -17,3 +17,12 @@ Once Deployed
 User will be prompted to start the quiz. 
 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/110429983/202609548-c2063875-0656-4799-ab1a-1dd9f62551c0.png)
+
+
+Once the quiz is over user is prompted to sign their score and play again 
+
+
+![Screenshot (28)](https://user-images.githubusercontent.com/110429983/202609599-37895973-fe97-4bfe-844d-e29666c31158.png)
+
+
