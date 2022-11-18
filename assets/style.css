@@ -9,10 +9,16 @@
     --hue-correct: 145; 
 }
 
-
+.timer{
+    position: absolute;
+    top: 5rem; 
+    right: 5rem;
+    color: white; 
+}
 
 body{
     --hue: var(--hue-neutral); 
+    position: relative;
     padding: 0;
     margin: 0;
     display: flex;
@@ -89,4 +95,8 @@ body.wrong{
 
 .hide {
     display: none;
+}
+
+.clock{
+    text-align: start;
 }

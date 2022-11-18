@@ -1,32 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel ="stylesheet" href="/assets/style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/style.css" />
     <script defer src="script.js"></script>
     <title>javaGame</title>
-</head>
-<body>
-
-    <div class="container">
-        <div id="questionContainer" class="hide">
-            <div id="question"> Question</div>
-             <div id="answerButtons" class="btnGrid">
-                <button class="btn">Answer 1 </button>
-                <button class="btn">Answer 2 </button>
-                <button class="btn">Answer 3 </button>
-                <button class="btn">Answer 4 </button>
-
-    
-             </div>
+  </head>
+  <body>
+    <div class="timer" id="gameTimer">10</div>
+    <div class="container" id="mainContainer">
+      <div id="questionContainer" class="hide">
+        <div id="question">Question</div>
+        <div id="answerButtons" class="btnGrid">
+          <button class="btn">Answer 1</button>
+          <button class="btn">Answer 2</button>
+          <button class="btn">Answer 3</button>
+          <button class="btn">Answer 4</button>
         </div>
-        <div class="controls">
-            <button id="startBtn" class="startBtn">Start</button>
-            <button id="nextBtn" class="startBtn hide" >Next</button>
-        </div>
-    </div>    
-    
-</body>
+
+      </div>
+      <div class="controls">
+        <button id="startBtn" class="startBtn">Start Quiz</button>
+        <button id="nextBtn" class="startBtn hide">Next</button>
+      </div>
+    </div>
+  </body>
 </html>
